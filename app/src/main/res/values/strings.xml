@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">String Operation</string>
+    <string name="book_list">>>Harrison\'s Principles of Internal Medicine\n>>The God Delusion \n>>The Amazing maurice and  His Educated Rodents \n>>The Android Developers Guide \n>>Catch 22 </string>
+    <string name="submit">Submit</string>
+    <string name="inter_number_of_books_you_like">Inter Number of books you like</string>
+    <string name="book_selection_question">How many of these book did you like?</string>
+</resources>
